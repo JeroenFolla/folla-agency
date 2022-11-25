@@ -1,5 +1,4 @@
 import * as React from 'React';
-import {Link} from 'gatsby';
 import Layout from '../components/layout';
 
 const AboutPage = () => {
